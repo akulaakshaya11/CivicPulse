@@ -1,0 +1,5 @@
+distance_group,total_points,hotspots,hotspot_rate_percent
+0-500m,451,65,14.41
+500m-1km,369,46,12.47
+1-2km,588,47,7.99
+Above 2km,1020,83,8.14
